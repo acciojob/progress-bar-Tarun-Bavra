@@ -1,1 +1,49 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	align-items:center;
+	justify-items:center;
+	margin-top:100px;
+	margin-bottom:30px;
+	margin-left:80px;
+	
+}
+.step{
+	width:40px;
+	height:40px;
+	border-radius:50%;
+	border:3px solid grey;
+	text-align:center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	
+}
+.line{
+	height:3px;
+	width:100px;
+	background-color:grey;
+	
+}
+.buttons{
+	display:flex;
+	margin-left:300px;
+	
+}
+.prev{
+
+	margin-inline:10px;
+	width:90px;
+	height:40px;
+	background-color:#3498DB;
+	border-radius:8px;
+	border:none;
+}
+.next{
+    margin-inline:10px;
+	width:90px;
+	height:40px;
+	background-color:#3498DB;
+	border-radius:8px;
+	border:none;
+}
