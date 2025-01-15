@@ -6,7 +6,6 @@
 	margin-top:100px;
 	margin-bottom:30px;
 	margin-left:80px;
-	
 }
 .step{
 	width:40px;
@@ -30,17 +29,8 @@
 	margin-left:300px;
 	
 }
-.prev{
-
+.btn{
 	margin-inline:10px;
-	width:90px;
-	height:40px;
-	background-color:#3498DB;
-	border-radius:8px;
-	border:none;
-}
-.next{
-    margin-inline:10px;
 	width:90px;
 	height:40px;
 	background-color:#3498DB;
